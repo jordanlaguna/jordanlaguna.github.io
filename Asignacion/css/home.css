@@ -1,0 +1,106 @@
+.rectangulo{
+    position: absolute;
+    width: 1320px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    background: #15627A;
+}
+.imgMenu{
+    position: absolute;
+    width: 48px;
+    height: 46.84px;
+    left: 15px;
+    top: 9px;
+}
+.menuTex{
+    position: absolute;
+    width: 103px;
+    height: 25px;
+    left: 74px;
+    top: 22px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.menuHome{
+    position: absolute;
+    width: 100px;
+    height: 34px;
+    left: 1095px;
+    top: 23px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.menuAbout{
+    position: absolute;
+    width: 100px;
+    height: 27px;
+    left: 1170px;
+    top: 23px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.imgCarrito{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1270px;
+    top: 15px;
+    /*/position: absolute;
+    width: 35px;
+    left: 95px;
+    right: 4px;
+    top: 3px;
+    background: #FFFFFF;*/
+}
+.welcome{
+    position: absolute;
+    width: 162px;
+    height: 117px;
+    left: 45px;
+    top: 405px;
+    font-weight: 400px;
+    font-size: 32px;
+    line-height: 50px;
+    text-align: center;
+    color: #0E0E0E;
+}
+.imgHome{
+    position: absolute;
+    width: 1020px;
+    height: 725px;
+    left: 245px;
+    top: 64px;
+}
+.rectangulo2{
+    position: absolute;
+    width: 725px;
+    height: 55px;
+    left: 930px;
+    top: 399px;
+    background: rgba(0, 0, 0, 0.30);
+    backdrop-filter: blur(2px);
+    transform: rotate(90deg);
+}
+.marca{
+    position: absolute;
+    width: 675px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}

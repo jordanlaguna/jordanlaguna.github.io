@@ -1,0 +1,146 @@
+.rectangulo{
+    position: absolute;
+    width: 1320px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    background: #15627A;
+}
+.imgMenu{
+    position: absolute;
+    width: 48px;
+    height: 46.84px;
+    left: 15px;
+    top: 9px;
+}
+.menuTex{
+    position: absolute;
+    width: 103px;
+    height: 25px;
+    left: 74px;
+    top: 22px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.menuHome{
+    position: absolute;
+    width: 100px;
+    height: 34px;
+    left: 1095px;
+    top: 23px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.menuAbout{
+    position: absolute;
+    width: 100px;
+    height: 27px;
+    left: 1170px;
+    top: 23px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.imgCarrito{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1270px;
+    top: 15px;
+}
+.rectangulo2{
+    position: absolute;
+    width: 725px;
+    height: 55px;
+    left: 930px;
+    top: 399px;
+    background: rgba(0, 0, 0, 0.30);
+    backdrop-filter: blur(2px);
+    transform: rotate(90deg);
+}
+.marca{
+    position: absolute;
+    width: 675px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.imgAbout{
+    position:absolute;
+    width: 1265px;
+    height: 725px;
+    left: 0px;
+    top: 64px;
+    filter: blur(2px);
+}
+
+.contain{
+
+    width: 650px;
+    height: 420px;
+    background: transparent;
+    color: #FFFFFF;
+    top: -15%; 
+    left: 45%;
+    position: absolute;
+    transform: translate(-50%, 50%);
+    box-sizing: border-box;
+    padding:  70px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+
+}
+
+.contain2{
+    margin: 0px 20px;
+    width: 4%;
+}
+.flex{
+    display: flex;
+}
+.img1{
+    position: absolute;
+    width: 50px;
+    height: 40px; 
+    margin: 700px -85px -30px 1000px;  
+    padding: 5px;
+    border-radius: 50%;
+    
+}
+.img2{
+    position: absolute;
+    width: 50px;
+    height: 40px; 
+    margin: 700px -310px -30px 1060px;  
+    padding: 5px;
+    
+}
+
+
+.text{
+
+    position: absolute;
+    width: 650px;
+    height: 290px;
+    left: 85px;
+    top: 150px;
+    color: #fffdfd;
+    mix-blend-mode: color;
+    line-height: 45px;
+    text-align: center;
+    font-weight: 300px;
+    font-size: 30px;
+}

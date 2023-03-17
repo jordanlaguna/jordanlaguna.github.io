@@ -1,0 +1,79 @@
+.imagen1{
+  margin: 50px 430px;
+  width: 450px;
+  border-radius: 8px;
+}
+.label1{
+    text-align: left;
+    margin: -35px 500px;
+    border-radius: 8px;
+    width: 300px;
+    height: 30px;
+}
+.label2{
+    text-align: left;
+    margin: 25px 500px;
+    border-radius: 8px;
+    width: 300px;
+    height: 30px;
+}
+.anchor1{
+    font-size: 15x;
+    margin: 25px 580px;
+    text-decoration: none;
+    color: black;
+    
+}
+.button-login{
+    margin: 25px 505px;
+    width: 300px;
+    height: 37px;
+    background: #017bab;
+    border-color: #017bab;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 18px;
+    
+
+}
+
+
+.label3{
+    margin: 25px 480px;
+    font-family: 15px;
+    color: #757171;
+    ;
+}
+ #text{
+    margin: 25px 590px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
+
+ .contain{
+    margin: 0px 20px;
+    width: 4%;
+}
+.flex{
+    display: flex;
+}
+.text-center{
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color: #ffffff;
+}
+.button{
+    background: rgb(255, 255, 255);
+    color: #ffffff;
+    border: 1px solid #333;
+    margin: 5px -310px -30px 420px;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+.imag2{
+    width: 50px;
+    height: 40px;
+}
